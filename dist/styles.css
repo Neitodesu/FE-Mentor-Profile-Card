@@ -48,7 +48,7 @@ body {
   background-color: var(--color1);
 }
 body main {
-  background: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
+  background: url("../assets/images/bg-pattern-top.svg"), url("../assets/images/bg-pattern-bottom.svg");
   background-repeat: no-repeat;
   background-position: right 50vw bottom 50vh, left 50vw top 50vh;
   font-family: var(--ff-main);
@@ -69,7 +69,7 @@ body .profile-card {
 }
 body .profile-card .card-top {
   height: 8.9em;
-  background-image: url("../images/bg-pattern-card.svg");
+  background-image: url("../assets/images/bg-pattern-card.svg");
 }
 body .profile-card .card-bottom {
   background-color: #fff;
